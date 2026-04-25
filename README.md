@@ -20,9 +20,3 @@ This project was completed as part of the **Tata Job Simulation** via Forage. It
 - **Insight Generation:** Developed a framework to interpret customer sentiment and operational data, reducing manual reporting time.
 - **Business Impact:** Identified 3 key growth areas by applying context-aware analysis to historical datasets.
 
-## 📁 Repository Structure
-```bash
-├── data/               # Datasets used for simulation
-├── notebooks/          # Analysis and GenAI implementation
-├── reports/            # Executive summaries and insights
-└── README.md           # Project documentation
